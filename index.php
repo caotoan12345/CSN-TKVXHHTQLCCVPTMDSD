@@ -726,7 +726,7 @@ if (!$result) {
             }
         });
 
-        // FORCE RELOAD IMAGES - Copy từ final_test.php
+        // FORCE RELOAD IMAGES
         window.addEventListener('load', function() {
             setTimeout(function() {
                 var images = document.querySelectorAll('.plant-card img');

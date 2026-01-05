@@ -1,7 +1,7 @@
 <?php 
 $servername = "localhost";
 $username = "root";
-$password = ""; // Mặc định của XAMPP là để trốn
+$password = "";
 $dbname = "quanly_caycanh";
 
 // Tạo kết nối sử dụng mysqli

@@ -35,7 +35,7 @@ if (!$plant_result || mysqli_num_rows($plant_result) == 0) {
 
 $plant = mysqli_fetch_assoc($plant_result);
 
-// Lấy 4 sản phẩm khác (ID kế tiếp)
+// Lấy 4 sản phẩm khác
 $related_sql = "SELECT PlantID, PlantName, imageURL, Summary, Price 
                 FROM Plants 
                 WHERE PlantID != $plant_id 
