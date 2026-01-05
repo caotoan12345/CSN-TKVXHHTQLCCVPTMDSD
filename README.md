@@ -7,4 +7,4 @@ Thông tin đồ án:
 -Giảng viên hướng dẫn: Nguyễn Ngọc Đan Thanh 
 -Email của giảng viên: ngocdanthanhdt@tvu.edu.vn 
 -Công nghệ sử dụng: HTML, CSS, JavaScript, PHP, MYSQL 
--Thời gian thực hiện: Từ ngày 17//2025 đến 05/01/2026
+-Thời gian thực hiện: Từ ngày 17/11/2025 đến 05/01/2026
