@@ -57,13 +57,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['remove_featured'])) {
     }
 }
 
-// Xử lý cập nhật trang chủ
+// Xử lý cập nhật trang chu
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['apply_changes'])) {
     // Không cần làm gì đặc biệt vì trang chủ đã tự động lấy dữ liệu từ database
     // Chỉ cần thông báo thành công
     $message = '<div class="alert alert-success">✅ Đã cập nhật trang chủ thành công! Các thay đổi đã được áp dụng.</div>';
 }
-
+ 
 // Xử lý xóa tư vấn (chỉ cho trạng thái completed)
 if (isset($_GET['delete_consultation'])) {
     $consultation_id = (int)$_GET['delete_consultation'];

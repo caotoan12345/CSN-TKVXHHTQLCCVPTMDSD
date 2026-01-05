@@ -1,6 +1,6 @@
 <?php
 // =====================================================
-// HỆ THỐNG QUẢN LÝ CÂY CẢNH VĂN PHÒNG
+// HỆ THỐNG QUẢN LÝ CÂY CẢNH VĂN PPHÒNG
 // File kết nối cơ sở dữ liệu
 // Tác giả: Đặng Cao Toàn - MSSV: 110123187
 // =====================================================
@@ -9,7 +9,7 @@ $servername = "localhost";
 $username = "root";
 $password = ""; // Mặc định của XAMPP là để trống
 $dbname = "quanly_caycanh";
-
+ 
 // Tạo kết nối sử dụng mysqli
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 

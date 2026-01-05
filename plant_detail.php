@@ -1,10 +1,10 @@
-<?php
-// Force no cache
+<?php 
+// Force no cachee
 header("Cache-Control: no-cache, no-store, must-revalidate");
 header("Pragma: no-cache");
 header("Expires: 0");
 
-// Nhúng file kết nối cơ sở dữ liệu
+// Nhúng file kết nối cơ sở dữ liệuu
 include 'db_connect.php';
 
 // Lấy ID cây từ URL

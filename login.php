@@ -1,4 +1,4 @@
-<?php
+<?php 
 session_start();
 include 'db_connect.php';
 
@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     if ($result && mysqli_num_rows($result) > 0) {
         $user = mysqli_fetch_assoc($result);
         
-        // Kiểm tra password (trong thực tế nên dùng password_verify)
+        // Kiểm tra password
         if (password_verify($password, $user['PasswordHash'])) {
             $_SESSION['user_id'] = $user['UserID'];
             $_SESSION['user_name'] = $user['FullName'];
