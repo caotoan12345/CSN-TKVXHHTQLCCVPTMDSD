@@ -1,0 +1,65 @@
+BÁO CÁO TIẾN ĐỘ THỰC HIỆN ĐỒ ÁN
+
+Tên đề tài: Thiết kế và xây dựng hệ thống quản lý cây cảnh văn phòng theo mục đích sử dụng
+Sinh viên thực hiện: Đặng Cao Toàn – MSSV: 110123187 – Lớp: DA23TTD
+Giảng viên hướng dẫn: Nguyễn Ngọc Đan Thanh
+
+Tuần 1 (17/11/2025 – 23/11/2025)
+
+Khảo sát nhu cầu và xác định phạm vi đề tài, đối tượng người dùng và các chức năng chính của website.
+
+Thu thập tài liệu tham khảo và khảo sát một số website bán và tư vấn cây xanh.
+
+Trao đổi với giảng viên hướng dẫn để thống nhất nội dung và phạm vi thực hiện đề tài.
+
+Kết quả:
+
+Xác định rõ mục tiêu, nội dung nghiên cứu của đề tài.
+
+Hoàn thành báo cáo tổng quan và nghiên cứu lý thuyết (Chương 1, Chương 2).
+
+Tuần 2 (24/11/2025 – 30/11/2025)
+
+Đặc tả yêu cầu hệ thống dựa trên kết quả khảo sát.
+
+Thiết kế mô hình dữ liệu (các bảng: danh mục sản phẩm, sản phẩm, tags, tư vấn).
+
+Thiết kế giao diện tổng thể website.
+
+Báo cáo và xin ý kiến giảng viên hướng dẫn về mô hình dữ liệu và giao diện.
+
+Kết quả:
+
+Hoàn thiện mô hình dữ liệu và bản thiết kế giao diện.
+
+Viết báo cáo phần hiện thực hóa nghiên cứu (Chương 3).
+
+Tuần 3 (01/12/2025 – 14/12/2025)
+
+Cài đặt cơ sở dữ liệu MySQL và tạo các bảng dữ liệu.
+
+Xây dựng các chức năng chính của website: danh mục sản phẩm, chi tiết sản phẩm, tìm kiếm.
+
+Nhập dữ liệu thử nghiệm và kiểm tra hoạt động của hệ thống.
+
+Kết quả:
+
+Website chạy ổn định với dữ liệu thử nghiệm.
+
+Các chức năng cơ bản hoạt động đúng yêu cầu.
+
+Tuần 4 (15/12/2025 – 04/01/2026)
+
+Hoàn thiện các chức năng còn lại: tags tìm kiếm, yêu cầu tư vấn, trang quản trị.
+
+Kiểm thử hệ thống, chỉnh sửa và hoàn thiện giao diện.
+
+Hoàn thiện báo cáo kỹ thuật, slide thuyết trình và tổ chức mã nguồn trên GitHub.
+
+Báo cáo nghiệm thu với giảng viên hướng dẫn.
+
+Kết quả:
+
+Website hoàn chỉnh, đáp ứng yêu cầu đề tài.
+
+Báo cáo kỹ thuật và slide thuyết trình hoàn thiện, sẵn sàng nộp.
